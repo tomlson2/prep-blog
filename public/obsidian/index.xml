@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obsidians on CS Prep blog</title>
+    <link>http://example.org/obsidian/</link>
+    <description>Recent content in Obsidians on CS Prep blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/obsidian/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/obsidian/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/obsidian/internships/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/obsidian/internships/</guid>
+      <description>Companies of Interest BrainStorm %% kanban:settings
+{&amp;#34;kanban-plugin&amp;#34;:&amp;#34;basic&amp;#34;} %%</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/obsidian/interview-prep/algorithms-and-data-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/obsidian/interview-prep/algorithms-and-data-structures/</guid>
+      <description>This is the first and most core category for preparing for software engineer interviews. There are 11 different topics that will be covered in this review.
+Arrays Linked Lists Recursion Sorting Binary Search Trees Backtracking Heap/Priority Queue Hashing Graphs Dynamic Programming Bit Manipulation </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/obsidian/networking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/obsidian/networking/</guid>
+      <description>Past Current Deb Future %% kanban:settings
+{&amp;#34;kanban-plugin&amp;#34;:&amp;#34;basic&amp;#34;} %%</description>
+    </item>
+    
+  </channel>
+</rss>
