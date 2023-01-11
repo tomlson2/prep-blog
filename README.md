@@ -1,5 +1,5 @@
 # prep-blog
-blog highlighting my cs interview prep journey.
+This blog highlights my cs interview prep journey.
 
 This website uses hugo to easily deploy a static website that documents my software engineering interview prep without the bloat of unnecessary javascript or dynamic features.
 
