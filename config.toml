@@ -1,5 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'CS Prep blog' 
-
-theme = 'smol'
+title = 'CS Blog' 
+theme = 'lugo'

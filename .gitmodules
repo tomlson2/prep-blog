@@ -4,3 +4,9 @@
 [submodule "themes/smol"]
 	path = themes/smol
 	url = https://github.com/colorchestra/smol
+[submodule "themes/hugo-toigian"]
+	path = themes/hugo-toigian
+	url = https://github.com/ntk148v/hugo-toigian.git
+[submodule "themes/lugo"]
+	path = themes/lugo
+	url = https://github.com/LukeSmithxyz/lugo
